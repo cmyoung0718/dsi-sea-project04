@@ -1,0 +1,170 @@
+,city,job,salary,company,highness,is_high,manager,senior,research,machine,python,developer,analyst,scientist,predicted
+3,New York,Data Scientist,187200.0,Countr,very_high,0,0,0,0,0,0,0,0,1,very_high
+6,New York,ASSOCIATE RESEARCHER I,120000.0,Mount Sinai Health System,high,0,0,0,1,0,0,0,0,0,very_high
+7,New York,"Cross Asset Quantitative Strategist, Analyst/Associate in Ne...",135000.0,Goldman Sachs,very_high,0,0,0,0,0,0,0,1,0,very_high
+8,New York,Data Scientist / Lead Quantitative Analyst,175000.0,Guidepoint Global,very_high,0,0,0,0,0,0,0,1,1,very_high
+10,New York,Quantitative Researcher in Machine Learning,192500.0,"Two Sigma Investments, LLC.",very_high,0,0,0,1,1,0,0,0,0,very_high
+13,New York,Statistician/Data Scientist,140000.0,New York Life Insurance Co,very_high,0,0,0,0,0,0,0,0,1,very_high
+15,Rahway,Data Scientist Job,150000.0,Merck,very_high,0,0,0,0,0,0,0,0,1,very_high
+16,New York,Senior Systematic Quantitative Analyst - Multi-billion Dolla...,200000.0,Averity,very_high,0,0,1,0,0,0,0,1,0,very_high
+17,New York,Regulatory and Data Specialist,150000.0,Weill Cornell Medical College,very_high,0,0,0,0,0,0,0,0,0,very_high
+22,New York,Senior Data Scientist for Leading Creative Music Company,135000.0,Averity,very_high,0,0,1,0,0,0,0,0,1,very_high
+27,New York,Data Scientist,80000.0,MassMutual Financial Group,low,1,0,0,0,0,0,0,0,1,very_high
+30,New York,Research Analyst,85000.0,NRT LLC,low,1,0,0,1,0,0,0,1,0,very_high
+31,New York,Senior Data Scientist,150000.0,Averity,very_high,0,0,1,0,0,0,0,0,1,very_high
+32,New York,"Analyst, Program & Digital Research",147500.0,NBCUniversal,very_high,0,0,0,1,0,0,0,1,0,very_high
+34,Manhattan,Python / Machine Learning Engineer,150000.0,Smith & Keller,very_high,0,0,0,0,1,1,0,0,0,very_high
+35,New York,Quantitative Analyst-Asset Allocation,56576.0,Analytic Recruiting,very_low,1,0,0,0,0,0,0,1,0,very_high
+36,New York,Quantitative Analyst,150000.0,Michael Page US,very_high,0,0,0,0,0,0,0,1,0,very_high
+38,New York,Business Intelligence Analyst,137500.0,Casper,very_high,0,0,0,0,0,0,0,1,0,very_high
+39,New York,Cognitive Software Developer,77975.0,Weill Cornell Medical College,low,1,0,0,0,0,0,1,0,0,very_high
+40,New York,"Economic Research, Analyst",135000.0,MUFG,very_high,0,0,0,1,0,0,0,1,0,very_high
+42,New York,Bioinformatics Engineer Center for Molecular Oncology,88331.0,Memorial Sloan-Kettering Cancer Center,high,0,0,0,0,0,0,0,0,0,very_high
+44,New York,Data Architect for Big Data Systems (VP) - Intelligent Solut...,212500.0,JPMorgan Chase,very_high,0,0,0,0,0,0,0,0,0,very_high
+45,New York,Equity Research Analyst - Power & Utilities,115000.0,Spencer Ogden,high,0,0,0,1,0,0,0,1,0,very_high
+49,New York,Analytics Strategy & Transformation Manager (Life Sciences),157500.0,Accenture,very_high,0,1,0,0,0,0,0,0,0,very_high
+51,Chicago,"Cloud Instructor (Big Data, Machine Learning), Google Cloud...",75000.0,Google,low,1,0,0,0,1,0,0,0,0,high
+57,Chicago,Quantitative Research Analyst,95000.0,Next Step Systems,high,0,0,0,1,0,0,0,1,0,high
+60,Chicago,Senior Statistical Geneticist,110000.0,University of Chicago,high,0,0,1,0,0,0,0,0,0,high
+61,Chicago,Senior Research Data Analyst,180000.0,Northwestern University,very_high,0,0,1,1,0,0,0,1,0,very_high
+65,Chicago,Quantitative Research Analyst,110000.0,"Envestnet Asset Management, Inc",high,0,0,0,1,0,0,0,1,0,high
+66,Chicago,Postdoctoral Research Scientist - Vertebrate Paleontology,140000.0,The Field Museum,very_high,0,0,0,1,0,0,0,0,1,high
+70,Chicago,Manager Research Analyst,41600.0,Morningstar,very_low,1,1,0,1,0,0,0,1,0,very_low
+71,Chicago,Associate Statistical Reports,100000.0,Federal Reserve Bank of Chicago,high,0,0,0,0,0,0,0,0,0,high
+72,Chicago,"Technical Curriculum Developer, Google Cloud Platform",115000.0,Google,high,0,0,0,0,0,0,1,0,0,high
+73,Chicago,Senior Credit REIT Research Analyst,180000.0,Morningstar,very_high,0,0,1,1,0,0,0,1,0,very_high
+74,Hinsdale,SR. HEALTHCARE DATA SCIENTIST,82500.0,"AMITA Health Adventist Medical Center, Hinsdale- A...",low,1,0,0,0,0,0,0,0,1,low
+75,Chicago,Senior Research Associate - PhD,80000.0,American Dental Association,low,1,0,1,1,0,0,0,0,0,high
+76,Chicago,Senior Finance Analyst,57428.8,University of Chicago,very_low,1,0,1,0,0,0,0,1,0,high
+77,Chicago,Lead Data Scientist,115000.0,Klein Hersh International,high,0,0,0,0,0,0,0,0,1,high
+78,Chicago,Senior Environmental Soil Scientist,115185.5,Metropolitan Water Reclamation District of Greater...,high,0,0,1,0,0,0,0,0,1,high
+79,Northbrook,Student Intern - Engineer,155000.0,"Wiss, Janney, Elstner Associates",very_high,0,0,0,0,0,0,0,0,0,very_low
+81,Chicago,Research Nurse - Allergy,128016.0,Ann & Robert Lurie Children's Hospital of Chicago,high,0,0,0,1,0,0,0,0,0,high
+83,Downers Grove,Senior Manager Predictive Analytics,145000.0,DeVry University,very_high,0,1,1,0,0,0,0,0,0,very_high
+84,Chicago,Project Quality Manager,37440.0,HDR,very_low,1,1,0,0,0,0,0,0,0,high
+88,Northbrook,Statistical Data Analyst- Northbrook!,62400.0,Modis,very_low,1,0,0,0,0,0,0,1,0,very_low
+89,Abbott Park,Clinical Statistician (Genomics and Biomarker),85000.0,inVentiv Health Clinical,low,1,0,0,0,0,0,0,0,0,very_low
+90,Chicago,Software Engineer,87500.0,Civis Analytics,high,0,0,0,0,0,0,0,0,0,high
+92,Chicago,Senior DevOps Engineer,150000.0,Strategic IT Staffing,very_high,0,0,1,0,0,0,0,0,0,high
+100,San Francisco,Data Scientist,160000.0,Komodo Health,very_high,0,0,0,0,0,0,0,0,1,very_high
+104,San Francisco,"Data Science Resident (DSR), and gU Resident",65000.0,Galvanize,low,1,0,0,0,0,0,0,0,0,low
+106,San Bruno,"Quantitative Business Analyst, YouTube",157500.0,Google,very_high,0,0,0,0,0,0,0,1,0,very_high
+114,Redwood City,Data Scientist,160000.0,Jobspring Partners,very_high,0,0,0,0,0,0,0,0,1,very_high
+121,San Francisco,Data Scientist - Forecasting,140000.0,Uber,very_high,0,0,0,0,0,0,0,0,1,very_high
+125,San Francisco,"Engineering Lead, Advertiser Growth",160000.0,Pinterest,very_high,0,0,0,0,0,0,0,0,0,low
+126,Emeryville,"Scientist, Fermentation",34142.0,Zymergen,very_low,1,0,0,0,0,0,0,0,1,very_low
+130,Brisbane,Data Scientist (Machine Learning),145000.0,Corporate Labs Technology,very_high,0,0,0,0,1,0,0,0,1,very_high
+134,Berkeley,Lecturer - Statistics,90000.0,University of California Berkeley,high,0,0,0,0,0,0,0,0,0,high
+140,San Francisco,Data Engineer,110000.0,Zenefits,high,0,0,0,0,0,0,0,0,0,low
+144,San Francisco,Sr. Molecular Clinical Lab Scientist Specialist,67589.6,University of California San Francisco Medical Cen...,low,1,0,0,0,0,0,0,0,1,very_high
+147,South San Francisco,Associate Scientist/Scientist Drug Metabolism,145000.0,Genentech,very_high,0,0,0,0,0,0,0,0,1,very_high
+150,Austin,"Cloud Instructor (Big Data, Machine Learning), Google Cloud...",80004.0,Google,low,1,0,0,0,1,0,0,0,0,low
+151,Austin,"3M HIS Specialist, Algorithm Data Engineers (Multiple Locati...",66996.0,3M,low,1,0,0,0,0,0,0,0,0,low
+152,Austin,Data Scientist,102498.0,Qcue,high,0,0,0,0,0,0,0,0,1,low
+154,Austin,Senior Machine Learning Data Scientist,150000.0,All-In Analytics,very_high,0,0,1,0,1,0,0,0,1,very_high
+156,Austin,Consumer Research Analyst,66492.0,Keller Williams,low,1,0,0,1,0,0,0,1,0,low
+157,Austin,Senior Developer,135000.0,Square Root,very_high,0,0,1,0,0,0,1,0,0,low
+158,Austin,Senior Software Engineer/Team Lead,90000.0,XOR Data Exchange,high,0,0,1,0,0,0,0,0,0,high
+160,Austin,Data Engineer,42228.0,Indeed,very_low,1,0,0,0,0,0,0,0,0,low
+162,Austin,Storage Software SQA Architect Job,71400.0,Micron,low,1,0,0,0,0,0,0,0,0,low
+164,Austin,Hosted Services Production Operations Senior System Administ...,102498.0,Nokia,high,0,0,1,0,0,0,0,0,0,high
+165,Austin,Mechanical Engineer,70000.0,Witricity Corporation,low,1,0,0,0,0,0,0,0,0,low
+205,Seattle,"decision scientist lead,Business Strategy - Seattle, WA",160000.0,Starbucks,very_high,0,0,0,0,0,0,0,0,1,very_low
+206,Seattle,Scientist/Research AssociateMolecular Engineering,7800.0,Stratos Genomics,very_low,1,0,0,1,0,0,0,0,1,low
+216,Redmond,"Data Scientist - Healthcare (Redmond, WA preferred location)",55548.0,Xerox,very_low,1,0,0,0,0,0,0,0,1,very_high
+217,Seattle,Data Scientist - Engineering,125000.0,Harvey Nash USA,high,0,0,0,0,0,0,0,0,1,very_low
+218,Seattle,Data Scientist (Jr),125000.0,Mainz Brady Group,high,0,0,0,0,0,0,0,0,1,very_low
+222,Seattle,Machine Learning Scientist - Selection Economic,140000.0,Amazon Corporate LLC,very_high,0,0,0,0,1,0,0,0,1,very_high
+224,Seattle,"Research Scientist II, Biomarker Sciences- Seattle",65568.0,Gilead,low,1,0,0,1,0,0,0,0,1,low
+225,Seattle,Sr. Data Scientist,51138.0,Coupang,very_low,1,0,0,0,0,0,0,0,1,very_low
+226,Seattle,"Technical Program Manager, Ads Machine Learning",75366.0,Facebook,low,1,1,0,0,1,0,0,0,0,low
+228,Seattle,Applied Scientist - Amazon Fashion Technology,150000.0,Amazon Corporate LLC,very_high,0,0,0,0,0,0,0,0,1,very_low
+229,Seattle,Research Technician III-IV,75366.0,Fred Hutchinson Cancer Research Center,low,1,0,0,1,0,0,0,0,0,low
+230,Seattle,"Director, Data Quality Analysis",57500.0,Zillow,very_low,1,0,0,0,0,0,0,0,0,very_low
+237,Bellevue,Systems Engineer Business Intelligence,142974.0,Smartsheet,very_high,0,0,0,0,0,0,0,0,0,very_low
+242,Seattle,Data Science Manager (Seattle),63012.0,Lyft Corporate,very_low,1,1,0,0,0,0,0,0,0,very_low
+244,Seattle,SDE II,43140.0,Amazon Corporate LLC,very_low,1,0,0,0,0,0,0,0,0,very_low
+245,Seattle,Head of Analytics - DEX Finance,75366.0,Amazon Corporate LLC,low,1,0,0,0,0,0,0,0,0,very_low
+246,Redmond,Applications Developer 3,145834.0,Career Tech Consulting,very_high,0,0,0,0,0,0,1,0,0,low
+255,Los Angeles,Water Quality Specialist: Qualified SWPPP Practitioner,120000.0,"Rincon Consultants, Inc.",high,0,0,0,0,0,0,0,0,0,high
+256,Los Angeles,Data Scientist Internship,105000.0,Uptown Treehouse,high,0,0,0,0,0,0,0,0,1,high
+261,Los Angeles,"Analyst, Quantitative Research",88765.0,Kelton Global,high,0,0,0,1,0,0,0,1,0,low
+262,Los Angeles,Centralized Research Billing Analyst,42566.5,UCLA Health,very_low,1,0,0,1,0,0,0,1,0,low
+263,Los Angeles,Clinical Lab Scientist- Medical Technologist (Per Diem/Days),102636.0,California Hospital Med Center,high,0,0,0,0,0,0,0,0,1,high
+267,Los Angeles,Investigations & Research Analyst,55000.0,Gavin de Becker & Associates,very_low,1,0,0,1,0,0,0,1,0,low
+269,El Segundo,Big Data Technical Co Op I,64213.0,AT&T,very_low,1,0,0,0,0,0,0,0,0,very_low
+271,Los Angeles,Variant Scientist,77634.0,UCLA Health,low,1,0,0,0,0,0,0,0,1,high
+272,Canoga Park,Sr. Bioinformatics Scientist,88000.0,Thermo Fisher Scientific,high,0,0,0,0,0,0,0,0,1,high
+275,Los Angeles,Software Developer/System Administrator,125000.0,UtopiaCompression Corporation,high,0,0,0,0,0,0,1,0,0,high
+276,Huntington Beach,System Administrator,56072.0,BOEING,very_low,1,0,0,0,0,0,0,0,0,very_low
+277,El Segundo,Procurement Agent,130000.0,BOEING,very_high,0,0,0,0,0,0,0,0,0,very_low
+281,Brea,"Manager, Marketing Analytics",75864.0,"Beckman Coulter, Inc.",low,1,1,0,0,0,0,0,0,0,low
+285,Duarte,"Senior Director, Clinical Labs",63700.0,City Of Hope,very_low,1,0,1,0,0,0,0,0,0,very_low
+287,Los Angeles,"CHIEF RESEARCH ANALYST, BEHAVIORAL SCIENCES",84495.5,Los Angeles County Department of Human Resources,low,1,0,0,1,0,0,0,1,0,low
+290,Los Angeles,Clinical Lab Scientist II-Laboratory,27040.0,Adventist Health Southern California Network,very_low,1,0,0,0,0,0,0,0,1,high
+302,Philadelphia,Senior Scientist,93600.0,"Evogen, Inc.",high,0,0,1,0,0,0,0,0,1,high
+304,Newtown Square,Data Scientist - SAP Custom Development Job,70000.0,SAP,low,1,0,0,0,0,0,0,0,1,low
+312,North Wales,Principal Statistician,110000.0,Icon plc,high,0,0,0,0,0,0,0,0,0,high
+316,Philadelphia,Associate Scientist/Study Director (Viral Clearance),56000.0,Wuxi AppTec,very_low,1,0,0,0,0,0,0,0,1,high
+317,Philadelphia,"ASSOC DIRECTOR, DATA ANALYSIS & OPERATIONS",60000.0,University of Pennsylvania,very_low,1,0,0,0,0,0,0,0,0,very_low
+320,Spring House,"Scientist, Oncology Research Discovery",130000.0,"Janssen Research & Development, LLC.",very_high,0,0,0,1,0,0,0,0,1,very_high
+324,West Chester,Sr. Scientist Upstream Development & Operations,91520.0,Teva Pharmaceuticals,high,0,0,0,0,0,0,0,0,1,high
+325,West Point,Scientist or Sr. Scientist Formulation Filling Process Devel...,250000.0,Lancaster Laboratories,very_high,0,0,0,0,0,0,0,0,1,very_high
+328,West Point,Analytical Chemist,100000.0,Eurofins,high,0,0,0,0,0,0,0,0,0,high
+330,Philadelphia,EDITORIAL MANAGER,100000.0,University of Pennsylvania,high,0,1,0,0,0,0,0,0,0,very_low
+334,Philadelphia,Nurse Practitioner - Full Time - Radiation Oncology,83200.0,Thomas Jefferson University Hospital,low,1,0,0,0,0,0,0,0,0,very_low
+336,Philadelphia,Clinical Research Coord II - SKCC,72500.0,Thomas Jefferson University and Hospitals,low,1,0,0,1,0,0,0,0,0,low
+341,Malvern,"Scientist, Host Cell Protein Method Development",120000.0,"Janssen Research & Development, LLC.",high,0,0,0,0,0,0,0,0,1,high
+350,Atlanta,Data Scientist,101553.5,Visionaire Partners,high,0,0,0,0,0,0,0,0,1,high
+352,Atlanta,Lead Data Scientist,80000.0,Stackfolio,low,1,0,0,0,0,0,0,0,1,high
+353,Alpharetta,Data Analytics Scientist,82500.0,"delane Consulting/Talent Management, LLC",low,1,0,0,0,0,0,0,0,1,low
+358,Atlanta,Data Analyst,130000.0,StrategyWise,very_high,0,0,0,0,0,0,0,1,0,low
+362,Kennesaw,Quality Analyst,80000.0,Philips,low,1,0,0,0,0,0,0,1,0,low
+365,Norcross,"Controls Engineer Norcross, GA",69900.0,OFS FITEL LLC,low,1,0,0,0,0,0,0,0,0,low
+368,Atlanta,Recruiter III (Software/IT),118560.0,Klein Management Systems,high,0,0,0,0,0,0,0,0,0,low
+370,Smyrna,Associate Director - Construction Services (Cobb County Rese...,62500.0,Georgia Tech,very_low,1,0,0,0,0,0,0,0,0,very_low
+373,Atlanta,Research Technician R&D,66700.0,R&D Partners,low,1,0,0,1,0,0,0,0,0,low
+374,Alpharetta,Principal SITECORE Appl. Developer,65000.0,ADP,low,1,0,0,0,0,0,1,0,0,low
+401,Plano,Ultimate Hoops Statistician,70770.0,Lifetime Fitness,low,1,0,0,0,0,0,0,0,0,low
+402,Dallas,Data Analyst,70770.0,Infor,low,1,0,0,0,0,0,0,1,0,very_low
+404,Irving,Principal Data Scientist - Supply Chain,24960.0,Verizon,very_low,1,0,0,0,0,0,0,0,1,high
+410,Dallas,Statistical Programmer,5200.0,Baylor Scott & White Health,very_low,1,0,0,0,0,0,0,0,0,very_low
+412,Coppell,Coordinator of Data Systems and Program Analysis,68587.5,Coppell ISD,low,1,0,0,0,0,0,0,0,0,low
+415,Irving,Sr. Quantitative Analyst,97500.0,TPA Technologies,high,0,0,0,0,0,0,0,1,0,very_low
+451,Pittsburgh,Computer Vision Scientist,40014.0,ChemImage Corporation,very_low,1,0,0,0,0,0,0,0,1,very_low
+454,Pittsburgh,Cyber Security Engineer - Penetration Tester - 2002651,52884.0,Software Engineering Institute,very_low,1,0,0,0,0,0,0,0,0,very_low
+455,Pittsburgh,Technical Writer,40014.0,"Voci Technologies, Inc.",very_low,1,0,0,0,0,0,0,0,0,very_low
+456,Township of Cranberry,Corrosion Control Technician (NACE CP2 Cathodic Protection C...,75500.0,Kleinfelder,low,1,0,0,0,0,0,0,0,0,low
+500,Portland,Fraud Analyst,70000.0,Vesta Corporation,low,1,0,0,0,0,0,0,1,0,very_low
+506,Portland,Field Service Engineer,64638.0,"Beckman Coulter, Inc.",very_low,1,0,0,0,0,0,0,0,0,very_low
+550,Phoenix,Analyst Market Research Senior,150000.0,SRP,very_high,0,0,1,1,0,0,0,1,0,very_high
+551,Phoenix,Data Scientist,68500.0,Carvana,low,1,0,0,0,0,0,0,0,1,very_low
+552,Tempe,Business Analyst II,72500.0,Amazon Corporate LLC,low,1,0,0,0,0,0,0,1,0,very_low
+553,Tempe,Management Intern,30097.6,Arizona State University,very_low,1,0,0,0,0,0,0,0,0,very_low
+554,Phoenix,LCMS Technologist & Certification Scientist,55000.0,Treatment Assessment Screening Center (TASC),very_low,1,0,0,0,0,0,0,0,1,very_low
+555,Phoenix,"Technical Product Manager, IntegraAnalytics",49738.0,The Red Flag Group,very_low,1,1,0,0,0,0,0,0,0,very_low
+600,Denver,SENIOR RESEARCH ANALYST AND DATA STRATEGIST,70075.2,Denver Public Schools,low,1,0,1,1,0,0,0,1,0,very_high
+602,Englewood,Quantitative Analyst,120000.0,DISH Network,high,0,0,0,0,0,0,0,1,0,high
+606,Denver,Data Analyst,105000.0,xentity corporation,high,0,0,0,0,0,0,0,1,0,high
+607,Denver,Senior Mining Hydrogeologist,107500.0,Knight Piesold Consulting,high,0,0,1,0,0,0,0,0,0,high
+608,Westminster,Antenna (Low Observable) Engineer I (658443),56500.0,Ball Aerospace,very_low,1,0,0,0,0,0,0,0,0,very_low
+613,Aurora,Food / Flavor Application Scientist,50000.0,MycoTechnology,very_low,1,0,0,0,0,0,0,0,1,high
+615,Boulder,CIRES Postdoctoral Position on Lab Gas-Particle Partitioning...,106100.0,University of Colorado,high,0,0,0,0,0,0,0,0,0,very_low
+619,Boulder,Database Administrator / Systems Engineer IV,50500.0,Cherokee Nation Businesses,very_low,1,0,0,0,0,0,0,0,0,very_low
+622,Aurora,Clinical Research Laboratory Assistant,88091.0,University of Colorado,high,0,0,0,1,0,0,0,0,0,very_low
+652,Houston,Data Scientist,92500.0,EDF Trading North America LLC,high,0,0,0,0,0,0,0,0,1,low
+653,Houston,Senior Research Policy Analyst,72000.0,Baylor College of Medicine,low,1,0,1,1,0,0,0,1,0,very_high
+655,Houston,Corporate Data and Research Analyst,250000.0,Rice University,very_high,0,0,0,1,0,0,0,1,0,low
+656,Houston,Product Manager,65000.0,Harris Corporation,low,1,1,0,0,0,0,0,0,0,low
+657,Houston,Polymer Scientist - Houston TX,80500.0,Baker Hughes,low,1,0,0,0,0,0,0,0,1,low
+658,Pearland,Laboratory Supervisor/ Toxicologist,72120.0,Galaxy Laboratories LLC,low,1,0,0,0,0,0,0,0,0,low
+661,Houston,Senior DevOps Engineer,100000.0,Strategic IT Staffing,high,0,0,1,0,0,0,0,0,0,high
+700,Aventura,Software Developer Machine Learning,80000.0,Tranzport Inc.,low,1,0,0,0,1,0,1,0,0,low
+702,Fort Lauderdale,"Data Scientist (Tableau) - Fort Lauderdale, Florida - $100K",90000.0,Nigel Frank International Limited,high,0,0,0,0,0,0,0,0,1,very_low
+703,Coral Gables,"Research Associate 2, SOM",46000.0,University of Miami,very_low,1,0,0,1,0,0,0,0,0,very_low
+704,Miramar,"Telemundo Stations, Digital Research Analyst",38400.0,NBCUniversal,very_low,1,0,0,1,0,0,0,1,0,very_low
+705,Fort Lauderdale,Optical Systems Engineer,46000.0,"Magic Leap, Inc.",very_low,1,0,0,0,0,0,0,0,0,very_low
+706,Fort Lauderdale,Sr. Director (Test & Calibration),59450.0,"Magic Leap, Inc.",very_low,1,0,0,0,0,0,0,0,0,very_low
+707,Dania Beach,Mechanical Engineer,56000.0,"Magic Leap, Inc.",very_low,1,0,0,0,0,0,0,0,0,very_low
+708,Miami,Physician/Attending - Miami Lakes Urgent Care. Full Time! -...,80000.0,Miami Children's Hospital,low,1,0,0,0,0,0,0,0,0,very_low
+711,Miami,QC Chemist,50000.0,Staffing Resource Group,very_low,1,0,0,0,0,0,0,0,0,very_low
